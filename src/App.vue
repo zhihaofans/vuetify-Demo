@@ -2,7 +2,9 @@
   <v-app>
     <v-navigation-drawer app> </v-navigation-drawer>
 
-    <v-app-bar app> </v-app-bar>
+    <v-app-bar app>
+      <v-app-bar-title>title</v-app-bar-title>
+    </v-app-bar>
 
     <v-main>
       <v-container fluid>
